@@ -1,6 +1,10 @@
 
 
 
+https://github.com/user-attachments/assets/b9b783dd-4535-420d-b5c4-a45fdfb94e7d
+
+
+
 # Real-Time Chat Application
 
 This is a real-time chat application built with Node.js, Express, Socket.IO, and React. The application allows users to send and receive messages in real-time, view chat history, and see who is online.
